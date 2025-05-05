@@ -1,6 +1,6 @@
 # 📐 Metric-Imperial Converter
 
-Project built for the [Metric-Imperial Converter API challenge from freeCodeCamp](https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/metric-imperial-converter).
+My solution for the [Metric-Imperial Converter project on freeCodeCamp](https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/metric-imperial-converter).
 
 ## 📌 Overview
 
